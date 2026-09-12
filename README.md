@@ -6,6 +6,32 @@ It features an intelligent **Reasoning Agent**, multi-source retrieval tools (**
 
 ---
 
+## 📐 Architecture Diagram
+
+![System Architecture Diagram](architecture.png)
+
+### Workflow Representation (Mermaid)
+
+```mermaid
+flowchart LR
+    UQ[User Query] --> RA[Reasoning Agent]
+    
+    RA --> KG[Knowledge Graph]
+    RA --> SQL[SQL / API]
+    RA --> VDB[Vector DB]
+    RA --> WS[Web Search]
+
+    KG --> EF[Evidence Fusion]
+    SQL --> EF
+    VDB --> EF
+    WS --> EF
+
+    EF --> VC[Verifier / Critic]
+    VC --> FA[Final Answer]
+```
+
+---
+
 ## 🌟 Key Features
 
 - **🧠 Intelligent Reasoning Agent**: Decomposes natural language queries, plans retrieval strategy, and routes targeted sub-queries to active tools.
@@ -23,37 +49,6 @@ It features an intelligent **Reasoning Agent**, multi-source retrieval tools (**
 
 ---
 
-## 📐 Architecture Diagram
-
-```mermaid
-flowchart TD
-    UQ[User Query] --> RA[1. Reasoning Agent Node]
-    
-    subgraph Data Sources - Toggleable via Sidebar UI
-        VDB[Vector DB Retriever - Chroma]
-        SQL[SQL Database Engine - SQLite]
-        WS[Web Search Tool - DuckDuckGo]
-        KG[Knowledge Graph Engine - NetworkX]
-    end
-
-    RA -->|Routes active sources| VDB
-    RA -->|Routes active sources| SQL
-    RA -->|Routes active sources| WS
-    RA -->|Routes active sources| KG
-
-    VDB --> EF[2. Evidence Fusion Node]
-    SQL --> EF
-    WS --> EF
-    KG --> EF
-
-    EF --> VC{3. Verifier / Critic Node}
-    
-    VC -- "Passed (Score Meets Threshold)" --> FA[4. Final Answer]
-    VC -- "Failed / Low Confidence (Score Below Threshold)" -->|Critique Feedback Loop| RA
-```
-
----
-
 ## 📁 Repository Structure
 
 ```text
@@ -62,6 +57,7 @@ agentic-rag-engine/
 ├── graph.py                    # LangGraph StateGraph pipeline definition
 ├── config.py                   # Configuration settings and paths
 ├── requirements.txt            # Python package dependencies
+├── architecture.png            # System Architecture Diagram
 ├── .env.example                # Environment variables template
 ├── README.md                   # Project documentation
 ├── agents/
