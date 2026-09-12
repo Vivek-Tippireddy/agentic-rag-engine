@@ -15,7 +15,7 @@ It features an intelligent **Reasoning Agent**, multi-source retrieval tools (**
   - **Web Search (`DuckDuckGo`)**: Live web search integration for real-time external information.
   - **Knowledge Graph (`NetworkX`)**: Entity-relationship graph linking corporate entities, subsidiaries (JLR, TPEM, Jio, Retail), and strategic initiatives.
 - **🔀 Evidence Fusion**: Merges, deduplicates, and re-ranks evidence snippets into a structured context payload.
-- **🧐 Verifier & Critic Node**: Evaluates answer groundedness and relevance. If confidence score < threshold, triggers an **automatic critique feedback loop** back to the Reasoning Agent.
+- **🧐 Verifier & Critic Node**: Evaluates answer groundedness and relevance. If confidence score is below threshold, triggers an **automatic critique feedback loop** back to the Reasoning Agent.
 - **💬 Dual Operating Modes**:
   - **RAG Multi-Source Mode**: Grounded retrieval & synthesis when data sources are active.
   - **Direct LLM Conversational Mode**: Seamless conversational assistant response when data sources are toggled off.
@@ -48,8 +48,8 @@ flowchart TD
 
     EF --> VC{3. Verifier / Critic Node}
     
-    VC -- "Passed (Score >= Threshold)" --> FA[4. Final Answer]
-    VC -- "Failed / Low Confidence (Score < Threshold)" -->|Critique Feedback Loop| RA
+    VC -- "Passed (Score Meets Threshold)" --> FA[4. Final Answer]
+    VC -- "Failed / Low Confidence (Score Below Threshold)" -->|Critique Feedback Loop| RA
 ```
 
 ---
