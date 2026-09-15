@@ -1,0 +1,58 @@
+{
+  "conditions": {
+    "baseline": {
+      "sample_size": 24,
+      "mean_groundedness": 4.54,
+      "mean_correctness": 4.17,
+      "mean_latency_ms": 21871.71,
+      "mean_llm_calls": 1.0
+    },
+    "auto": {
+      "sample_size": 24,
+      "mean_groundedness": 4.62,
+      "mean_correctness": 4.29,
+      "mean_latency_ms": 30322.77,
+      "mean_llm_calls": 2.17
+    },
+    "manual_toggle": {
+      "sample_size": 24,
+      "mean_groundedness": 4.46,
+      "mean_correctness": 4.0,
+      "mean_latency_ms": 25991.53,
+      "mean_llm_calls": 2.08
+    }
+  },
+  "retries": {
+    "retry_fired_count": 3,
+    "mean_verifier_score_before": 0.71,
+    "mean_verifier_score_after": 0.81,
+    "mean_score_delta": 0.1
+  },
+  "buckets": {
+    "vector_only": {
+      "baseline_success_rate": 66.7,
+      "manual_toggle_success_rate": 66.7,
+      "auto_success_rate": 66.7,
+      "delta_manual_vs_baseline": 0.0
+    },
+    "sql_only": {
+      "baseline_success_rate": 100.0,
+      "manual_toggle_success_rate": 50.0,
+      "auto_success_rate": 100.0,
+      "delta_manual_vs_baseline": -50.0
+    },
+    "graph_only": {
+      "baseline_success_rate": 66.7,
+      "manual_toggle_success_rate": 83.3,
+      "auto_success_rate": 83.3,
+      "delta_manual_vs_baseline": 16.7
+    },
+    "web_only": {
+      "baseline_success_rate": 16.7,
+      "manual_toggle_success_rate": 16.7,
+      "auto_success_rate": 16.7,
+      "delta_manual_vs_baseline": 0.0
+    }
+  },
+  "case_studies": []
+}

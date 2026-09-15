@@ -1,0 +1,170 @@
+[
+  {
+    "id": "vec_1",
+    "category": "vector_only",
+    "question": "What are Reliance Industries key sustainability and net-zero target commitments mentioned in their annual reports?",
+    "target_source": "vector_db",
+    "gold_answer": "Reliance Industries targets Net Zero Carbon by 2035 (and JLR by 2039/Tata Motors India by 2045), using over 75% renewable energy and investing in Green Hydrogen & Solar Gigafactories."
+  },
+  {
+    "id": "vec_2",
+    "category": "vector_only",
+    "question": "How does Tata Motors describe its corporate strategy for domestic passenger vehicle expansion?",
+    "target_source": "vector_db",
+    "gold_answer": "Tata Motors focuses on multi-powertrain strategy (EV, ICE, CNG), market leadership in EVs via Nexon EV/Tiago EV/Punch EV, and expanding dedicated EV manufacturing plants."
+  },
+  {
+    "id": "vec_3",
+    "category": "vector_only",
+    "question": "What is the primary objective of Jaguar Land Rover's Reimagine strategy?",
+    "target_source": "vector_db",
+    "gold_answer": "Reimagine strategy aims to accelerate luxury electrification across Jaguar and Land Rover portfolios with a GBP 15 Billion investment plan and reach net zero carbon by 2039."
+  },
+  {
+    "id": "vec_4",
+    "category": "vector_only",
+    "question": "What solar and renewable energy facilities is Reliance Industries building in Jamnagar?",
+    "target_source": "vector_db",
+    "gold_answer": "Reliance is building the Dhirubhai Ambani Green Energy Giga Complex in Jamnagar featuring 4 Gigafactories for Solar Panels, Green Hydrogen Electrolyzers, Fuel Cells, and Energy Storage."
+  },
+  {
+    "id": "vec_5",
+    "category": "vector_only",
+    "question": "What telematics technology platform is deployed across Tata Motors commercial vehicles fleet?",
+    "target_source": "vector_db",
+    "gold_answer": "Fleet Edge telematics platform connected to over 500,000 commercial vehicles for real-time fleet management and fuel efficiency tracking."
+  },
+  {
+    "id": "vec_6",
+    "category": "vector_only",
+    "question": "How did Reliance Retail expand its omnichannel presence and store network footprint in recent fiscal years?",
+    "target_source": "vector_db",
+    "gold_answer": "Reliance Retail expanded to over 18,000 stores across India with digital commerce integration (JioMart) driving 30%+ YoY EBITDA growth."
+  },
+  {
+    "id": "sql_1",
+    "category": "sql_only",
+    "question": "What was Tata Motors consolidated net profit (PAT) in FY24?",
+    "target_source": "sql_api",
+    "gold_answer": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore in FY24."
+  },
+  {
+    "id": "sql_2",
+    "category": "sql_only",
+    "question": "What was Reliance Industries consolidated EBITDA in FY24?",
+    "target_source": "sql_api",
+    "gold_answer": "Reliance Industries reported a consolidated EBITDA of Rs 1,78,677 Crore in FY24."
+  },
+  {
+    "id": "sql_3",
+    "category": "sql_only",
+    "question": "What was Tata Motors net automotive debt reduction status by FY24?",
+    "target_source": "sql_api",
+    "gold_answer": "Tata Motors reduced net automotive debt to near zero (Rs 1,000 Crore), achieving debt-free targets ahead of schedule."
+  },
+  {
+    "id": "sql_4",
+    "category": "sql_only",
+    "question": "What was Reliance Industries consolidated total revenue in FY24 in Crore Rupees?",
+    "target_source": "sql_api",
+    "gold_answer": "Reliance Industries reported consolidated revenue of Rs 1,000,122 Crore ($119.9 Billion) in FY24."
+  },
+  {
+    "id": "sql_5",
+    "category": "sql_only",
+    "question": "What was Tata Motors Indian electric vehicle market share percentage in FY24?",
+    "target_source": "sql_api",
+    "gold_answer": "Tata Motors maintained over 70% (73.0%) market share in the Indian passenger EV segment in FY24."
+  },
+  {
+    "id": "sql_6",
+    "category": "sql_only",
+    "question": "What was Tata Motors EBITDA in FY24 in Crore Rupees?",
+    "target_source": "sql_api",
+    "gold_answer": "Tata Motors consolidated EBITDA was Rs 62,800 Crore in FY24."
+  },
+  {
+    "id": "graph_1",
+    "category": "graph_only",
+    "question": "What is the relationship between Tata Motors, JLR, and TPEM?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "Tata Motors is the 100% parent owner of both Jaguar Land Rover (JLR) luxury automotive subsidiary and Tata Passenger Electric Mobility (TPEM) electric vehicle division."
+  },
+  {
+    "id": "graph_2",
+    "category": "graph_only",
+    "question": "Which investor committed 1 billion dollars to Tata Passenger Electric Mobility (TPEM)?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "TPG Rise Climate committed $1 Billion investment in TPEM for EV business scaling."
+  },
+  {
+    "id": "graph_3",
+    "category": "graph_only",
+    "question": "What strategic corporate de-merger was approved by the Tata Motors Board for 2024-2025?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "De-merger into two separate listed companies: 1) Commercial Vehicles (CV) business and investments, 2) Passenger Vehicles (PV), EV, and JLR luxury business."
+  },
+  {
+    "id": "graph_4",
+    "category": "graph_only",
+    "question": "What are the key operating divisions and retail subsidiaries of Reliance Industries?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "Reliance Industries operates Jio Platforms (Telecom), Reliance Retail (18,000+ stores), Oil to Chemicals (O2C), and Dhirubhai Ambani Green Energy Giga Complex."
+  },
+  {
+    "id": "graph_5",
+    "category": "graph_only",
+    "question": "What clean energy transition commitment did Reliance Industries make for its Jamnagar Giga Complex?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "Building 4 Gigafactories for Green Hydrogen electrolyzers, Solar PV, Fuel Cells, and Energy Storage with Rs 75,000 Crore investment target."
+  },
+  {
+    "id": "graph_6",
+    "category": "graph_only",
+    "question": "Which luxury automotive subsidiary executes the Reimagine electrification strategy under Tata Motors?",
+    "target_source": "knowledge_graph",
+    "gold_answer": "Jaguar Land Rover (JLR) executes the Reimagine electrification strategy under Tata Motors."
+  },
+  {
+    "id": "web_1",
+    "category": "web_only",
+    "question": "What is the latest stock market news or valuation updates for Tata Motors in 2024?",
+    "target_source": "web_search",
+    "gold_answer": "Tata Motors reached historic highs in market capitalization in 2024 driven by record JLR margin recovery, strong EV sales, and de-merger plans."
+  },
+  {
+    "id": "web_2",
+    "category": "web_only",
+    "question": "What recent joint venture or partnership announcements were made by Reliance Jio in 2024?",
+    "target_source": "web_search",
+    "gold_answer": "Reliance Jio expanded 5G network coverage across India, introduced JioAirFiber wireless broadband, and partnered on AI cloud infrastructure."
+  },
+  {
+    "id": "web_3",
+    "category": "web_only",
+    "question": "What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?",
+    "target_source": "web_search",
+    "gold_answer": "Tata Motors launched Punch EV (built on acti.ev architecture) and Curvv EV SUV coupe in 2024."
+  },
+  {
+    "id": "web_4",
+    "category": "web_only",
+    "question": "What recent green energy investments or giga factory updates did Reliance announce in 2024?",
+    "target_source": "web_search",
+    "gold_answer": "Reliance announced commissioning phase for its first Solar PV Gigafactory in Jamnagar in 2024 and expanding Green Hydrogen production capacity."
+  },
+  {
+    "id": "web_5",
+    "category": "web_only",
+    "question": "What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?",
+    "target_source": "web_search",
+    "gold_answer": "The Board approved the 1:1 share de-merger process into separate CV and PV/JLR listed entities, targeting shareholder and regulatory approvals in 2024-2025."
+  },
+  {
+    "id": "web_6",
+    "category": "web_only",
+    "question": "What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?",
+    "target_source": "web_search",
+    "gold_answer": "Reliance Retail expanded total footfalls and revenue across 18,000+ stores with fashion, grocery, and electronic consumer electronics dominance."
+  }
+]

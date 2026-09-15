@@ -17,8 +17,9 @@ HF_TOKEN = os.getenv("HF_TOKEN", "")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
 # Default System Configuration
-DEFAULT_MODEL_PROVIDER = "gemini"  # Options: 'gemini', 'huggingface', 'openai', 'ollama'
-DEFAULT_MODEL_NAME = "gemini-2.5-flash"
+DEFAULT_MODEL_PROVIDER = os.getenv("MODEL_PROVIDER", "gemini")  # Options: 'gemini', 'huggingface', 'openai', 'ollama'
+DEFAULT_MODEL_NAME = os.getenv("MODEL_NAME", "gemini-3.6-flash")
+DEFAULT_HF_MODEL = os.getenv("HF_MODEL_NAME", "meta-llama/Llama-3.1-8B-Instruct")
 
 # Default Verifier & Critic Settings
 DEFAULT_VERIFIER_THRESHOLD = 0.75  # Minimum score (0.0 to 1.0) to pass verification

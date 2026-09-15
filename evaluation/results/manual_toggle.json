@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "vec_1",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "What are Reliance Industries key sustainability and net-zero target commitments mentioned in their annual reports?",
+    "gold_answer": "Reliance Industries targets Net Zero Carbon by 2035 (and JLR by 2039/Tata Motors India by 2045), using over 75% renewable energy and investing in Green Hydrogen & Solar Gigafactories.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 16.67,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What are Reliance Industries key sustainability and net-zero target commitments mentioned in their annual reports?*\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]\nReliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]\nReliance Industries Limited Integrated Annual Report 2025-26\n26 27\nManagement Discussion and AnalysisManagement Discussion and Analysis -  Business Overview\nPowering a Net Carbon \nZero Future\nReliance is transitioning from planning \nto large-scale execution, building a \ngigawatt-scale clean energy ecosystem \nwith unmatched vertical integration. \nReliance's mission is clear \u2013 enable \nReliance\u2019s transition to Net Carbon \nZero by 2035.\n\u2022 The Dhirubhai Ambani Green \nEnergy Giga Complex in Jamnagar \nis being developed across 5,000 \nacres, with 44 million sq. ft. of \nmanufacturing and operational \nbuilt-up area and is envisioned as \nthe world's most integrated clean \nenergy manufacturing ecosystem \noutside China.\n\u2022 The platform will create over \n2,00,000 green jobs, reduce \nIndia\u2019s energy import dependence, \nlower RIL Group\u2019s energy costs \nsignificantly, and deliver long-term \nshareholder returns.\nGlobal and Indian \nEnergy Landscape\nThe global energy industry is at an\n",
+    "final_answer": "### Financial Summary for: *What are Reliance Industries key sustainability and net-zero target commitments mentioned in their annual reports?*\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]\nReliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]\nReliance Industries Limited Integrated Annual Report 2025-26\n26 27\nManagement Discussion and AnalysisManagement Discussion and Analysis -  Business Overview\nPowering a Net Carbon \nZero Future\nReliance is transitioning from planning \nto large-scale execution, building a \ngigawatt-scale clean energy ecosystem \nwith unmatched vertical integration. \nReliance's mission is clear \u2013 enable \nReliance\u2019s transition to Net Carbon \nZero by 2035.\n\u2022 The Dhirubhai Ambani Green \nEnergy Giga Complex in Jamnagar \nis being developed across 5,000 \nacres, with 44 million sq. ft. of \nmanufacturing and operational \nbuilt-up area and is envisioned as \nthe world's most integrated clean \nenergy manufacturing ecosystem \noutside China.\n\u2022 The platform will create over \n2,00,000 green jobs, reduce \nIndia\u2019s energy import dependence, \nlower RIL Group\u2019s energy costs \nsignificantly, and deliver long-term \nshareholder returns.\nGlobal and Indian \nEnergy Landscape\nThe global energy industry is at an\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]:\nReliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online\n\nSource 2 [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]:\nReliance Industries Limited Integrated Annual Report 2025-26\n26 27\nManagement Discussion and AnalysisManagement Discussion and Analysis -  Business Overview\nPowering a Net Carbon \nZero Future\nReliance is transitioning from planning \nto large-scale execution, building a \ngigawatt-scale clean energy ecosystem \nwith unmatched vertical integration. \nReliance's mission is clear \u2013 enable \nReliance\u2019s transition to Net Carbon \nZero by 2035.\n\u2022 The Dhirubhai Ambani Green \nEnergy Giga Complex in Jamnagar \nis being developed across 5,000 \nacres, with 44 million sq. ft. of \nmanufacturing and operational \nbuilt-up area and is envisioned as \nthe world's most integrated clean \nenergy manufacturing ecosystem \noutside China.\n\u2022 The platform will create over \n2,00,000 green jobs, reduce \nIndia\u2019s energy import dependence, \nlower RIL Group\u2019s energy costs \nsignificantly, and deliver long-term \nshareholder returns.\nGlobal and Indian \nEnergy Landscape\nThe global energy industry is at an\n",
+      "items": [
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online",
+          "score": 0.6611
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited Integrated Annual Report 2025-26\n26 27\nManagement Discussion and AnalysisManagement Discussion and Analysis -  Business Overview\nPowering a Net Carbon \nZero Future\nReliance is transitioning from planning \nto large-scale execution, building a \ngigawatt-scale clean energy ecosystem \nwith unmatched vertical integration. \nReliance's mission is clear \u2013 enable \nReliance\u2019s transition to Net Carbon \nZero by 2035.\n\u2022 The Dhirubhai Ambani Green \nEnergy Giga Complex in Jamnagar \nis being developed across 5,000 \nacres, with 44 million sq. ft. of \nmanufacturing and operational \nbuilt-up area and is envisioned as \nthe world's most integrated clean \nenergy manufacturing ecosystem \noutside China.\n\u2022 The platform will create over \n2,00,000 green jobs, reduce \nIndia\u2019s energy import dependence, \nlower RIL Group\u2019s energy costs \nsignificantly, and deliver long-term \nshareholder returns.\nGlobal and Indian \nEnergy Landscape\nThe global energy industry is at an",
+          "score": 0.7381
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online",
+          "score": 0.6611
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online",
+          "score": 0.6611
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2024-25.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited \n(RIL)\tis\tIndia\u2019s\tlargest\tprivate\t\nsector enterprise and a \nFortune\tGlobal\t500\tleader.\t\nIts presence across energy, \nretail, telecom, media \nand green technologies \ntouches\tmillions\tof\tlives\t\nevery\tday,\tcontributing\tto\t\nthe nation\u2019s unstoppable \ngrowth\tmomentum.\tAs\tIndia\t\ndreams bigger and strides \nconfidently\tforward,\tReliance\t\nfuels\tthat\tambition\twith\t\nrelentless\tpassion,\tliving\tby\t\nits unshakeable belief that \n\u2018Growth\tis\tLife\u2019.\nAbout this Report\nThe Reliance Integrated Annual Report \nhas been prepared in alignment \nwith\tthe\tIntegrated\tReporting\t\n<IR>\tFramework.\tIn\tpreparation\tfor\t\nthe\tReport,\tGRI\tStandards,\tNational\t\nGuidelines\tfor\tResponsible\tBusiness\t\nConduct\t(NGRBC),\tUnited\tNations\t\nSustainable\tDevelopment\tGoals\t\n(UN\tSDGs)\tand\t13\tother\tframeworks\t\nwere\treferenced.\tThe\tReport\toutlines\t\nRIL\u2019s commitment to stakeholder \nvalue\tcreation\tand\tdefines\tthe\tactions\t\ntaken\tand\toutcomes\tachieved\tfor\t\nits stakeholders.\nAttending the 48th AGM Online",
+          "score": 0.6611
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "Reliance Industries Limited Integrated Annual Report 2025-26\n26 27\nManagement Discussion and AnalysisManagement Discussion and Analysis -  Business Overview\nPowering a Net Carbon \nZero Future\nReliance is transitioning from planning \nto large-scale execution, building a \ngigawatt-scale clean energy ecosystem \nwith unmatched vertical integration. \nReliance's mission is clear \u2013 enable \nReliance\u2019s transition to Net Carbon \nZero by 2035.\n\u2022 The Dhirubhai Ambani Green \nEnergy Giga Complex in Jamnagar \nis being developed across 5,000 \nacres, with 44 million sq. ft. of \nmanufacturing and operational \nbuilt-up area and is envisioned as \nthe world's most integrated clean \nenergy manufacturing ecosystem \noutside China.\n\u2022 The platform will create over \n2,00,000 green jobs, reduce \nIndia\u2019s energy import dependence, \nlower RIL Group\u2019s energy costs \nsignificantly, and deliver long-term \nshareholder returns.\nGlobal and Indian \nEnergy Landscape\nThe global energy industry is at an",
+          "score": 0.7381
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "vec_2",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "How does Tata Motors describe its corporate strategy for domestic passenger vehicle expansion?",
+    "gold_answer": "Tata Motors focuses on multi-powertrain strategy (EV, ICE, CNG), market leadership in EVs via Nexon EV/Tiago EV/Punch EV, and expanding dedicated EV manufacturing plants.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 17.32,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *How does Tata Motors describe its corporate strategy for domestic passenger vehicle expansion?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n",
+    "final_answer": "### Financial Summary for: *How does Tata Motors describe its corporate strategy for domestic passenger vehicle expansion?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]:\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n\nSource 2 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]:\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n",
+      "items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.7383
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.7527
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.7383
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.7383
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.7383
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.7527
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "vec_3",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "What is the primary objective of Jaguar Land Rover's Reimagine strategy?",
+    "gold_answer": "Reimagine strategy aims to accelerate luxury electrification across Jaguar and Land Rover portfolios with a GBP 15 Billion investment plan and reach net zero carbon by 2039.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 15.84,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What is the primary objective of Jaguar Land Rover's Reimagine strategy?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with GBP 15 Billion\ninvestment plan.\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in\nIndia.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across\nmajor Indian cities.\n6. STRATEGIC DE-MERGER (2024-2025)\n",
+    "final_answer": "### Financial Summary for: *What is the primary objective of Jaguar Land Rover's Reimagine strategy?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with GBP 15 Billion\ninvestment plan.\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in\nIndia.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across\nmajor Indian cities.\n6. STRATEGIC DE-MERGER (2024-2025)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]:\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.\n\nSource 2 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]:\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with GBP 15 Billion\ninvestment plan.\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in\nIndia.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across\nmajor Indian cities.\n6. STRATEGIC DE-MERGER (2024-2025)\n",
+      "items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.",
+          "score": 0.9953
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with GBP 15 Billion\ninvestment plan.\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in\nIndia.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across\nmajor Indian cities.\n6. STRATEGIC DE-MERGER (2024-2025)",
+          "score": 1.1366
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.",
+          "score": 0.9953
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.",
+          "score": 0.9953
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: \u00a329.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with \u00a315 Billion investment plan.\n\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in India.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across major Indian cities.",
+          "score": 0.9953
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n- Reimagine Strategy: Accelerating electrification across Jaguar and Land Rover portfolios with GBP 15 Billion\ninvestment plan.\n4. PASSENGER VEHICLES & ELECTRIC VEHICLES (EV)\n- Market share in Indian EV segment: Over 70% share led by Nexon EV, Tiago EV, Punch EV, and Curvv EV.\n- TPEM (Tata Passenger Electric Mobility) secured $1 Billion investment commitment from TPG Rise Climate.\n- Target: 50% EV penetration by 2030 in PV portfolio.\n5. COMMERCIAL VEHICLES (CV) DIVISION\n- Market leadership in Heavy Commercial Vehicles (HCV) and Intermediate Light Commercial Vehicles (ILCV) in\nIndia.\n- Fleet edge telematics platform connected to over 500,000 commercial vehicles.\n- Transitioning to Zero-Emission Vehicles: Hydrogen FCEV trucks, LNG, and Smart E-buses deployed across\nmajor Indian cities.\n6. STRATEGIC DE-MERGER (2024-2025)",
+          "score": 1.1366
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "vec_4",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "What solar and renewable energy facilities is Reliance Industries building in Jamnagar?",
+    "gold_answer": "Reliance is building the Dhirubhai Ambani Green Energy Giga Complex in Jamnagar featuring 4 Gigafactories for Solar Panels, Green Hydrogen Electrolyzers, Fuel Cells, and Energy Storage.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 16.01,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What solar and renewable energy facilities is Reliance Industries building in Jamnagar?*\n\n#### [VectorDB: Reliance Industries - AR_2021-22.pdf]\nThese projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore\n\n#### [VectorDB: Reliance Industries - AR_2021-22.pdf]\nfuel cells spread over 5,000 acres in \nJamnagar. Reliance will also invest in \ncreating an ecosystem of thousands \nof small and medium scale \nproject consultants and installers \npan-India to set up Green Energy \ngeneration projects in every nook \nand corner of the country. Similarly, \nReliance will undertake large Giga \nWatt scale turnkey Green Energy \nprojects for Power GenCos or large \ninvestors on its own.\nWith these collaborations and \nthe Giga-factories, Reliance is set \nto achieve a uniquely integrated \nposition in the Green Energy value \nchain globally. This deep integration, \napart from the new-age technologies \nand world-class execution \ncapabilities, will ensure Reliance\u2019s \nrenewable energy systems stay at \nthe cutting edge of cost efficiency\n",
+    "final_answer": "### Financial Summary for: *What solar and renewable energy facilities is Reliance Industries building in Jamnagar?*\n\n#### [VectorDB: Reliance Industries - AR_2021-22.pdf]\nThese projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore\n\n#### [VectorDB: Reliance Industries - AR_2021-22.pdf]\nfuel cells spread over 5,000 acres in \nJamnagar. Reliance will also invest in \ncreating an ecosystem of thousands \nof small and medium scale \nproject consultants and installers \npan-India to set up Green Energy \ngeneration projects in every nook \nand corner of the country. Similarly, \nReliance will undertake large Giga \nWatt scale turnkey Green Energy \nprojects for Power GenCos or large \ninvestors on its own.\nWith these collaborations and \nthe Giga-factories, Reliance is set \nto achieve a uniquely integrated \nposition in the Green Energy value \nchain globally. This deep integration, \napart from the new-age technologies \nand world-class execution \ncapabilities, will ensure Reliance\u2019s \nrenewable energy systems stay at \nthe cutting edge of cost efficiency\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Reliance Industries - AR_2021-22.pdf]:\nThese projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore\n\nSource 2 [VectorDB: Reliance Industries - AR_2021-22.pdf]:\nfuel cells spread over 5,000 acres in \nJamnagar. Reliance will also invest in \ncreating an ecosystem of thousands \nof small and medium scale \nproject consultants and installers \npan-India to set up Green Energy \ngeneration projects in every nook \nand corner of the country. Similarly, \nReliance will undertake large Giga \nWatt scale turnkey Green Energy \nprojects for Power GenCos or large \ninvestors on its own.\nWith these collaborations and \nthe Giga-factories, Reliance is set \nto achieve a uniquely integrated \nposition in the Green Energy value \nchain globally. This deep integration, \napart from the new-age technologies \nand world-class execution \ncapabilities, will ensure Reliance\u2019s \nrenewable energy systems stay at \nthe cutting edge of cost efficiency\n",
+      "items": [
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "These projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore",
+          "score": 0.6008
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "fuel cells spread over 5,000 acres in \nJamnagar. Reliance will also invest in \ncreating an ecosystem of thousands \nof small and medium scale \nproject consultants and installers \npan-India to set up Green Energy \ngeneration projects in every nook \nand corner of the country. Similarly, \nReliance will undertake large Giga \nWatt scale turnkey Green Energy \nprojects for Power GenCos or large \ninvestors on its own.\nWith these collaborations and \nthe Giga-factories, Reliance is set \nto achieve a uniquely integrated \nposition in the Green Energy value \nchain globally. This deep integration, \napart from the new-age technologies \nand world-class execution \ncapabilities, will ensure Reliance\u2019s \nrenewable energy systems stay at \nthe cutting edge of cost efficiency",
+          "score": 0.6266
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "These projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore",
+          "score": 0.6008
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "These projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore",
+          "score": 0.6008
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "These projects have potential \nto create 10 lakh direct / indirect \nemployment opportunities in the \nstate\n\u2022 Completed acquisitions and \ninvestments of over `5,500 crore to \nbuild capabilities in New Energy\n\u2022 One of the companies shortlisted \nunder GOI's PLI schemes for \nintegrated PV module and ACC \nBattery manufacturing \n\u2022 Developing an ecosystem for \nassisting Small and Medium \nEnterprises (SMEs) and \nentrepreneurs to embrace new \ntechnologies and innovations \nleading to captive use of \nRenewable Energy and Green \nHydrogen\n\u2022 Established the Reliance New \nEnergy Council ('NEC') with some of \nthe finest minds globally helping \nus validate our strategies and \nembrace disruptive pathways to \nachieve our goals \n\u2022 Commenced development of the \nDhirubhai Ambani Green Energy \nGiga Complex ('DAGEGC') on 5,000 \nacres in Jamnagar which will be \namong the largest integrated \nrenewable energy manufacturing \nfacilities in the world\n5,000 acres\nDAGEGC development commenced\n`5.95 lakh crore",
+          "score": 0.6008
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - AR_2021-22.pdf]",
+          "source": "VectorDB",
+          "content": "fuel cells spread over 5,000 acres in \nJamnagar. Reliance will also invest in \ncreating an ecosystem of thousands \nof small and medium scale \nproject consultants and installers \npan-India to set up Green Energy \ngeneration projects in every nook \nand corner of the country. Similarly, \nReliance will undertake large Giga \nWatt scale turnkey Green Energy \nprojects for Power GenCos or large \ninvestors on its own.\nWith these collaborations and \nthe Giga-factories, Reliance is set \nto achieve a uniquely integrated \nposition in the Green Energy value \nchain globally. This deep integration, \napart from the new-age technologies \nand world-class execution \ncapabilities, will ensure Reliance\u2019s \nrenewable energy systems stay at \nthe cutting edge of cost efficiency",
+          "score": 0.6266
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "vec_5",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "What telematics technology platform is deployed across Tata Motors commercial vehicles fleet?",
+    "gold_answer": "Fleet Edge telematics platform connected to over 500,000 commercial vehicles for real-time fleet management and fuel efficiency tracking.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 17.04,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What telematics technology platform is deployed across Tata Motors commercial vehicles fleet?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n",
+    "final_answer": "### Financial Summary for: *What telematics technology platform is deployed across Tata Motors commercial vehicles fleet?*\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n\n#### [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]:\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.\n\nSource 2 [VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]:\nTATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n",
+      "items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.9517
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.9542
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.9517
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.9517
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.pdf]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles,\nbuses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric\nMobility (TPEM), and Tata Motors Commercial Vehicles.\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: Rs 4,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: Rs 62,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): Rs 31,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): Rs 26,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).\n3. JAGUAR LAND ROVER (JLR) PERFORMANCE\n- Revenue: GBP 29.0 Billion (record annual revenue).\n- EBIT Margin: 8.5%.\n- Key Models Driving Growth: Defender, Range Rover, Range Rover Sport.",
+          "score": 0.9517
+        },
+        {
+          "label": "[VectorDB: Tata Motors - Tata_Motors_Integrated_Annual_Report_Summary.txt]",
+          "source": "VectorDB",
+          "content": "TATA MOTORS LIMITED - INTEGRATED ANNUAL REPORT SUMMARY (FY 2021-22 TO FY 2024-25)\n\n1. EXECUTIVE SUMMARY & BUSINESS PROFILE\nTata Motors Limited (part of the Tata Group) is a leading global automobile manufacturer of cars, utility vehicles, buses, trucks, and defense vehicles. Key subsidiaries include Jaguar Land Rover (JLR), Tata Passenger Electric Mobility (TPEM), and Tata Motors Commercial Vehicles.\n\n2. FINANCIAL PERFORMANCE HIGHLIGHTS (FY 2023-24)\n- Consolidated Revenue: \u20b94,37,939 Crore ($52.6 Billion), an increase of 26.6% YoY.\n- EBITDA: \u20b962,800 Crore, up 46.2% YoY.\n- Net Profit (PAT): \u20b931,807 Crore (record highest profitability).\n- Free Cash Flow (Automotive): \u20b926,900 Crore.\n- Net Automotive Debt: Reduced to near zero (target achieved ahead of schedule).",
+          "score": 0.9542
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "vec_6",
+    "category": "vector_only",
+    "target_source": "vector_db",
+    "condition": "manual_toggle",
+    "question": "How did Reliance Retail expand its omnichannel presence and store network footprint in recent fiscal years?",
+    "gold_answer": "Reliance Retail expanded to over 18,000 stores across India with digital commerce integration (JioMart) driving 30%+ YoY EBITDA growth.",
+    "sources_queried": [
+      "vector_db"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 16.67,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *How did Reliance Retail expand its omnichannel presence and store network footprint in recent fiscal years?*\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]\nretailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2023-24.pdf]\n\u2212 Reliance Retail delivered resilient \nperformance with another year \nof steady growth in revenue and \nprofit. The business recorded Gross \nRevenue of C 3,06,848 crore, a \ngrowth of 17 .8% over last year.\n \u2212 The business continued its strong \ntrack record of profit growth, \nregistering an EBITDA of C 23,082 \ncrore for the year, up 28.4% Y-o-Y.\n \u2212 At 8.5%, EBITDA Margin continued to \nshow improvements and grew 70\u00a0bps \nY-o-Y.\n \u2212 The business opened 1,840 new \nstores. The total store count stands \nat 18,836 stores with an area of \n79.1\u00a0Million sq ft.\n \u2212 Reliance Retail undertook equity \nfund raise of C 17 ,814 crore during \nthe year.\n \u2212 Stores witnessed over a billion \nfootfalls, a significant milestone for \nthe business.\n \u2212 The registered customer base crossed \na milestone of 300 million, making \nReliance Retail one of the most \npreferred retailers in the country.\n \u2212 During the year, the business made \nseveral strategic partnerships and \nacquisitions to strengthen capabilities\n",
+    "final_answer": "### Financial Summary for: *How did Reliance Retail expand its omnichannel presence and store network footprint in recent fiscal years?*\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]\nretailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.\n\n#### [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2023-24.pdf]\n\u2212 Reliance Retail delivered resilient \nperformance with another year \nof steady growth in revenue and \nprofit. The business recorded Gross \nRevenue of C 3,06,848 crore, a \ngrowth of 17 .8% over last year.\n \u2212 The business continued its strong \ntrack record of profit growth, \nregistering an EBITDA of C 23,082 \ncrore for the year, up 28.4% Y-o-Y.\n \u2212 At 8.5%, EBITDA Margin continued to \nshow improvements and grew 70\u00a0bps \nY-o-Y.\n \u2212 The business opened 1,840 new \nstores. The total store count stands \nat 18,836 stores with an area of \n79.1\u00a0Million sq ft.\n \u2212 Reliance Retail undertook equity \nfund raise of C 17 ,814 crore during \nthe year.\n \u2212 Stores witnessed over a billion \nfootfalls, a significant milestone for \nthe business.\n \u2212 The registered customer base crossed \na milestone of 300 million, making \nReliance Retail one of the most \npreferred retailers in the country.\n \u2212 During the year, the business made \nseveral strategic partnerships and \nacquisitions to strengthen capabilities\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]:\nretailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.\n\nSource 2 [VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2023-24.pdf]:\n\u2212 Reliance Retail delivered resilient \nperformance with another year \nof steady growth in revenue and \nprofit. The business recorded Gross \nRevenue of C 3,06,848 crore, a \ngrowth of 17 .8% over last year.\n \u2212 The business continued its strong \ntrack record of profit growth, \nregistering an EBITDA of C 23,082 \ncrore for the year, up 28.4% Y-o-Y.\n \u2212 At 8.5%, EBITDA Margin continued to \nshow improvements and grew 70\u00a0bps \nY-o-Y.\n \u2212 The business opened 1,840 new \nstores. The total store count stands \nat 18,836 stores with an area of \n79.1\u00a0Million sq ft.\n \u2212 Reliance Retail undertook equity \nfund raise of C 17 ,814 crore during \nthe year.\n \u2212 Stores witnessed over a billion \nfootfalls, a significant milestone for \nthe business.\n \u2212 The registered customer base crossed \na milestone of 300 million, making \nReliance Retail one of the most \npreferred retailers in the country.\n \u2212 During the year, the business made \nseveral strategic partnerships and \nacquisitions to strengthen capabilities\n",
+      "items": [
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "retailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.",
+          "score": 0.6233
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2023-24.pdf]",
+          "source": "VectorDB",
+          "content": "\u2212 Reliance Retail delivered resilient \nperformance with another year \nof steady growth in revenue and \nprofit. The business recorded Gross \nRevenue of C 3,06,848 crore, a \ngrowth of 17 .8% over last year.\n \u2212 The business continued its strong \ntrack record of profit growth, \nregistering an EBITDA of C 23,082 \ncrore for the year, up 28.4% Y-o-Y.\n \u2212 At 8.5%, EBITDA Margin continued to \nshow improvements and grew 70\u00a0bps \nY-o-Y.\n \u2212 The business opened 1,840 new \nstores. The total store count stands \nat 18,836 stores with an area of \n79.1\u00a0Million sq ft.\n \u2212 Reliance Retail undertook equity \nfund raise of C 17 ,814 crore during \nthe year.\n \u2212 Stores witnessed over a billion \nfootfalls, a significant milestone for \nthe business.\n \u2212 The registered customer base crossed \na milestone of 300 million, making \nReliance Retail one of the most \npreferred retailers in the country.\n \u2212 During the year, the business made \nseveral strategic partnerships and \nacquisitions to strengthen capabilities",
+          "score": 0.6833
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "retailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.",
+          "score": 0.6233
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "retailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.",
+          "score": 0.6233
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2025-26.pdf]",
+          "source": "VectorDB",
+          "content": "retailer in India, operating in an integrated retail \necosystem that combines physical stores, digital \ncommerce and distribution platforms. Today, \nReliance Retail is positioned as India\u2019s largest omni-\nchannel retailer with the scale and capabilities to \nserve customers seamlessly across touchpoints.\nReliance Retail's operating model prioritises \naccessibility, affordability and availability, while \nfulfilling the daily needs of millions across every \nconsumption basket.\nStrategic \nObjective\nStrengthen Reliance Retail's \nposition as India's largest \nand most trusted retailer by \ndemocratizing access to quality \nproducts and experiences for \nevery Indian. Reliance Retail \nwould harness technology \nand innovation to redefine the \nfuture of Indian retail, creating \nlasting value for consumers, \ncommunities, and the nation.\nIndustry Overview\nIndia is one of the world\u2019s fastest-\ngrowing retail markets, and expected  \nto become the third-largest by 2030.",
+          "score": 0.6233
+        },
+        {
+          "label": "[VectorDB: Reliance Industries - RIL-Integrated-Annual-Report-2023-24.pdf]",
+          "source": "VectorDB",
+          "content": "\u2212 Reliance Retail delivered resilient \nperformance with another year \nof steady growth in revenue and \nprofit. The business recorded Gross \nRevenue of C 3,06,848 crore, a \ngrowth of 17 .8% over last year.\n \u2212 The business continued its strong \ntrack record of profit growth, \nregistering an EBITDA of C 23,082 \ncrore for the year, up 28.4% Y-o-Y.\n \u2212 At 8.5%, EBITDA Margin continued to \nshow improvements and grew 70\u00a0bps \nY-o-Y.\n \u2212 The business opened 1,840 new \nstores. The total store count stands \nat 18,836 stores with an area of \n79.1\u00a0Million sq ft.\n \u2212 Reliance Retail undertook equity \nfund raise of C 17 ,814 crore during \nthe year.\n \u2212 Stores witnessed over a billion \nfootfalls, a significant milestone for \nthe business.\n \u2212 The registered customer base crossed \na milestone of 300 million, making \nReliance Retail one of the most \npreferred retailers in the country.\n \u2212 During the year, the business made \nseveral strategic partnerships and \nacquisitions to strengthen capabilities",
+          "score": 0.6833
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "VectorDB": 4
+      },
+      "total_snippets": 2
+    }
+  },
+  {
+    "id": "sql_1",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Tata Motors consolidated net profit (PAT) in FY24?",
+    "gold_answer": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore in FY24.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.87,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Tata Motors consolidated net profit (PAT) in FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "final_answer": "### Financial Summary for: *What was Tata Motors consolidated net profit (PAT) in FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Tata Motors]:\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+      "items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "sql_2",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Reliance Industries consolidated EBITDA in FY24?",
+    "gold_answer": "Reliance Industries reported a consolidated EBITDA of Rs 1,78,677 Crore in FY24.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.77,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Reliance Industries consolidated EBITDA in FY24?*\n\n#### [SQL DB: Reliance Industries]\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+    "final_answer": "### Financial Summary for: *What was Reliance Industries consolidated EBITDA in FY24?*\n\n#### [SQL DB: Reliance Industries]\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Reliance Industries]:\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+      "items": [
+        {
+          "label": "[SQL DB: Reliance Industries]",
+          "source": "SQL_Database",
+          "content": "Reliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Reliance Industries]",
+          "source": "SQL_Database",
+          "content": "Reliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "sql_3",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Tata Motors net automotive debt reduction status by FY24?",
+    "gold_answer": "Tata Motors reduced net automotive debt to near zero (Rs 1,000 Crore), achieving debt-free targets ahead of schedule.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 3.47,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Tata Motors net automotive debt reduction status by FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "final_answer": "### Financial Summary for: *What was Tata Motors net automotive debt reduction status by FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Tata Motors]:\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+      "items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "sql_4",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Reliance Industries consolidated total revenue in FY24 in Crore Rupees?",
+    "gold_answer": "Reliance Industries reported consolidated revenue of Rs 1,000,122 Crore ($119.9 Billion) in FY24.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.83,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Reliance Industries consolidated total revenue in FY24 in Crore Rupees?*\n\n#### [SQL DB: Reliance Industries]\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+    "final_answer": "### Financial Summary for: *What was Reliance Industries consolidated total revenue in FY24 in Crore Rupees?*\n\n#### [SQL DB: Reliance Industries]\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Reliance Industries]:\nReliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio\n",
+      "items": [
+        {
+          "label": "[SQL DB: Reliance Industries]",
+          "source": "SQL_Database",
+          "content": "Reliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Reliance Industries]",
+          "source": "SQL_Database",
+          "content": "Reliance Industries (FY24): Net Profit = Rs 79,020 Cr, EBITDA = Rs 178,677 Cr, Revenue = Rs 1,000,122 Cr ($119.9B), Net Debt = Rs 116,281 Cr, EV Share = 0.0%. Highlights: Record EBITDA across O2C, Retail, and Jio",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "sql_5",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Tata Motors Indian electric vehicle market share percentage in FY24?",
+    "gold_answer": "Tata Motors maintained over 70% (73.0%) market share in the Indian passenger EV segment in FY24.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.66,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Tata Motors Indian electric vehicle market share percentage in FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "final_answer": "### Financial Summary for: *What was Tata Motors Indian electric vehicle market share percentage in FY24?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Tata Motors]:\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+      "items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "sql_6",
+    "category": "sql_only",
+    "target_source": "sql_api",
+    "condition": "manual_toggle",
+    "question": "What was Tata Motors EBITDA in FY24 in Crore Rupees?",
+    "gold_answer": "Tata Motors consolidated EBITDA was Rs 62,800 Crore in FY24.",
+    "sources_queried": [
+      "sql_api"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.6,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What was Tata Motors EBITDA in FY24 in Crore Rupees?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "final_answer": "### Financial Summary for: *What was Tata Motors EBITDA in FY24 in Crore Rupees?*\n\n#### [SQL DB: Tata Motors]\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [SQL DB: Tata Motors]:\nTata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero\n",
+      "items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[SQL DB: Tata Motors]",
+          "source": "SQL_Database",
+          "content": "Tata Motors (FY24): Net Profit = Rs 31,807 Cr, EBITDA = Rs 62,800 Cr, Revenue = Rs 437,939 Cr ($52.6B), Net Debt = Rs 1,000 Cr, EV Share = 73.0%. Highlights: Record profit & EBITDA, net debt reduced near zero",
+          "score": 0.5
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "SQL_Database": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_1",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "What is the relationship between Tata Motors, JLR, and TPEM?",
+    "gold_answer": "Tata Motors is the 100% parent owner of both Jaguar Land Rover (JLR) luxury automotive subsidiary and Tata Passenger Electric Mobility (TPEM) electric vehicle division.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.1,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What is the relationship between Tata Motors, JLR, and TPEM?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+    "final_answer": "### Financial Summary for: *What is the relationship between Tata Motors, JLR, and TPEM?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_2",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "Which investor committed 1 billion dollars to Tata Passenger Electric Mobility (TPEM)?",
+    "gold_answer": "TPG Rise Climate committed $1 Billion investment in TPEM for EV business scaling.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.07,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *Which investor committed 1 billion dollars to Tata Passenger Electric Mobility (TPEM)?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+    "final_answer": "### Financial Summary for: *Which investor committed 1 billion dollars to Tata Passenger Electric Mobility (TPEM)?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTPEM -> [invested_by] -> TPG Rise Climate (commitment=$1 Billion)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_3",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "What strategic corporate de-merger was approved by the Tata Motors Board for 2024-2025?",
+    "gold_answer": "De-merger into two separate listed companies: 1) Commercial Vehicles (CV) business and investments, 2) Passenger Vehicles (PV), EV, and JLR luxury business.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.15,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What strategic corporate de-merger was approved by the Tata Motors Board for 2024-2025?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+    "final_answer": "### Financial Summary for: *What strategic corporate de-merger was approved by the Tata Motors Board for 2024-2025?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_4",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "What are the key operating divisions and retail subsidiaries of Reliance Industries?",
+    "gold_answer": "Reliance Industries operates Jio Platforms (Telecom), Reliance Retail (18,000+ stores), Oil to Chemicals (O2C), and Dhirubhai Ambani Green Energy Giga Complex.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.56,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What are the key operating divisions and retail subsidiaries of Reliance Industries?*\n\n#### [Knowledge Graph: Entity Relations]\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+    "final_answer": "### Financial Summary for: *What are the key operating divisions and retail subsidiaries of Reliance Industries?*\n\n#### [Knowledge Graph: Entity Relations]\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Reliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Reliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_5",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "What clean energy transition commitment did Reliance Industries make for its Jamnagar Giga Complex?",
+    "gold_answer": "Building 4 Gigafactories for Green Hydrogen electrolyzers, Solar PV, Fuel Cells, and Energy Storage with Rs 75,000 Crore investment target.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.66,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *What clean energy transition commitment did Reliance Industries make for its Jamnagar Giga Complex?*\n\n#### [Knowledge Graph: Entity Relations]\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+    "final_answer": "### Financial Summary for: *What clean energy transition commitment did Reliance Industries make for its Jamnagar Giga Complex?*\n\n#### [Knowledge Graph: Entity Relations]\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nReliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Reliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Reliance Industries -> [owns_subsidiary] -> Reliance Retail (stores=18,000+)\nReliance Industries -> [operates_division] -> Oil to Chemicals (O2C)\nReliance Industries -> [owns_subsidiary] -> Jio Platforms (sector=Telecom)\nReliance Industries -> [building_facility] -> Dhirubhai Ambani Green Energy Giga Complex (location=Jamnagar)\nReliance Industries -> [target_investment] -> Green Hydrogen & Solar Gigafactories (commitment=Rs 75,000 Crore)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "graph_6",
+    "category": "graph_only",
+    "target_source": "knowledge_graph",
+    "condition": "manual_toggle",
+    "question": "Which luxury automotive subsidiary executes the Reimagine electrification strategy under Tata Motors?",
+    "gold_answer": "Jaguar Land Rover (JLR) executes the Reimagine electrification strategy under Tata Motors.",
+    "sources_queried": [
+      "knowledge_graph"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 2.67,
+    "llm_call_count": 2,
+    "candidate_answer": "### Financial Summary for: *Which luxury automotive subsidiary executes the Reimagine electrification strategy under Tata Motors?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nJaguar Land Rover (JLR) -> [executes_strategy] -> Reimagine Strategy (investment=GBP 15 Billion)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+    "final_answer": "### Financial Summary for: *Which luxury automotive subsidiary executes the Reimagine electrification strategy under Tata Motors?*\n\n#### [Knowledge Graph: Entity Relations]\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nJaguar Land Rover (JLR) -> [executes_strategy] -> Reimagine Strategy (investment=GBP 15 Billion)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Knowledge Graph: Entity Relations]:\nTata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nJaguar Land Rover (JLR) -> [executes_strategy] -> Reimagine Strategy (investment=GBP 15 Billion)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)\n",
+      "items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nJaguar Land Rover (JLR) -> [executes_strategy] -> Reimagine Strategy (investment=GBP 15 Billion)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)",
+          "score": 0.9
+        }
+      ],
+      "local_items": [
+        {
+          "label": "[Knowledge Graph: Entity Relations]",
+          "source": "KnowledgeGraph",
+          "content": "Tata Motors -> [owns_subsidiary] -> Jaguar Land Rover (JLR) (share=100%)\nTata Motors -> [owns_subsidiary] -> Tata Passenger Electric Mobility (TPEM) (share=100%)\nTata Motors -> [approved_strategic_action] -> Corporate De-merger (timeline=2024-2025)\nJaguar Land Rover (JLR) -> [executes_strategy] -> Reimagine Strategy (investment=GBP 15 Billion)\nTata Motors -> [operates_division] -> Commercial Vehicles (CV)",
+          "score": 0.9
+        }
+      ],
+      "online_items": [],
+      "source_breakdown": {
+        "KnowledgeGraph": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "web_1",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What is the latest stock market news or valuation updates for Tata Motors in 2024?",
+    "gold_answer": "Tata Motors reached historic highs in market capitalization in 2024 driven by record JLR margin recovery, strong EV sales, and de-merger plans.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.93,
+    "verifier_score_final": 0.93,
+    "latency_ms": 993.86,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What is the latest stock market news or valuation updates for Tata Motors in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What is the latest stock market news or valuation updates for Tata Motors in 2024?*\n\n#### [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What is the latest stock market news or valuation updates for Tata Motors in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What is the latest stock market news or valuation updates for Tata Motors in 2024?*\n\n#### [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]:\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+      "items": [
+        {
+          "label": "[Web Search: Tata Motors FY24 & FY25 Financial Results Overview]",
+          "source": "WebSearch",
+          "content": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.",
+          "score": 0.9
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Tata Motors FY24 & FY25 Financial Results Overview]",
+          "source": "WebSearch",
+          "content": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.",
+          "score": 0.9
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "web_2",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What recent joint venture or partnership announcements were made by Reliance Jio in 2024?",
+    "gold_answer": "Reliance Jio expanded 5G network coverage across India, introduced JioAirFiber wireless broadband, and partnered on AI cloud infrastructure.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.92,
+    "verifier_score_final": 0.92,
+    "latency_ms": 944.04,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent joint venture or partnership announcements were made by Reliance Jio in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent joint venture or partnership announcements were made by Reliance Jio in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent joint venture or partnership announcements were made by Reliance Jio in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent joint venture or partnership announcements were made by Reliance Jio in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Reliance Industries FY24 & FY25 Financial Performance]:\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+      "items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "web_3",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?",
+    "gold_answer": "Tata Motors launched Punch EV (built on acti.ev architecture) and Curvv EV SUV coupe in 2024.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.95,
+    "verifier_score_final": 0.95,
+    "latency_ms": 471.13,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?*\n\n#### [Web Search: Tata Motors Annual Reports - Financial Performance Data | Tata Motors]\nAccess Tata Motors annual reports & financial statements. Download yearly performance data, auditor reports & shareholder \u2026\n\n#### [Web Search: Tata Motors Annual Report 2024-25 | PDF | Equity (Finance) | Investing]\nTata Motors Annual Report 2024-25 The document presents the balance sheet, statement of profit and loss, and cash flow statement \u2026\n\n#### [Web Search: Tata Motors 80th Annual Report 2024-25 | PDF | Equity (Finance)]\nTata Motor IAR 2024 25 Consolidated - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document \u2026\n\n#### [Web Search: Tata Motors Annual Results | Financial Updates and Reports]\nView Tata Motors\u2019 latest quarterly results, performance reports, and key financial data. Stay updated with the company\u2019s financial \u2026\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent electric vehicle models were launched by Tata Motors in 2024 such as Punch EV or Curvv EV?*\n\n#### [Web Search: Tata Motors Annual Reports - Financial Performance Data | Tata Motors]\nAccess Tata Motors annual reports & financial statements. Download yearly performance data, auditor reports & shareholder \u2026\n\n#### [Web Search: Tata Motors Annual Report 2024-25 | PDF | Equity (Finance) | Investing]\nTata Motors Annual Report 2024-25 The document presents the balance sheet, statement of profit and loss, and cash flow statement \u2026\n\n#### [Web Search: Tata Motors 80th Annual Report 2024-25 | PDF | Equity (Finance)]\nTata Motor IAR 2024 25 Consolidated - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document \u2026\n\n#### [Web Search: Tata Motors Annual Results | Financial Updates and Reports]\nView Tata Motors\u2019 latest quarterly results, performance reports, and key financial data. Stay updated with the company\u2019s financial \u2026\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Tata Motors Annual Reports - Financial Performance Data | Tata Motors]:\nAccess Tata Motors annual reports & financial statements. Download yearly performance data, auditor reports & shareholder \u2026\n\nSource 2 [Web Search: Tata Motors Annual Report 2024-25 | PDF | Equity (Finance) | Investing]:\nTata Motors Annual Report 2024-25 The document presents the balance sheet, statement of profit and loss, and cash flow statement \u2026\n\nSource 3 [Web Search: Tata Motors 80th Annual Report 2024-25 | PDF | Equity (Finance)]:\nTata Motor IAR 2024 25 Consolidated - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document \u2026\n\nSource 4 [Web Search: Tata Motors Annual Results | Financial Updates and Reports]:\nView Tata Motors\u2019 latest quarterly results, performance reports, and key financial data. Stay updated with the company\u2019s financial \u2026\n",
+      "items": [
+        {
+          "label": "[Web Search: Tata Motors Annual Reports - Financial Performance Data | Tata Motors]",
+          "source": "WebSearch",
+          "content": "Access Tata Motors annual reports & financial statements. Download yearly performance data, auditor reports & shareholder \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors Annual Report 2024-25 | PDF | Equity (Finance) | Investing]",
+          "source": "WebSearch",
+          "content": "Tata Motors Annual Report 2024-25 The document presents the balance sheet, statement of profit and loss, and cash flow statement \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors 80th Annual Report 2024-25 | PDF | Equity (Finance)]",
+          "source": "WebSearch",
+          "content": "Tata Motor IAR 2024 25 Consolidated - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors Annual Results | Financial Updates and Reports]",
+          "source": "WebSearch",
+          "content": "View Tata Motors\u2019 latest quarterly results, performance reports, and key financial data. Stay updated with the company\u2019s financial \u2026",
+          "score": 0.85
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Tata Motors Annual Reports - Financial Performance Data | Tata Motors]",
+          "source": "WebSearch",
+          "content": "Access Tata Motors annual reports & financial statements. Download yearly performance data, auditor reports & shareholder \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors Annual Report 2024-25 | PDF | Equity (Finance) | Investing]",
+          "source": "WebSearch",
+          "content": "Tata Motors Annual Report 2024-25 The document presents the balance sheet, statement of profit and loss, and cash flow statement \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors 80th Annual Report 2024-25 | PDF | Equity (Finance)]",
+          "source": "WebSearch",
+          "content": "Tata Motor IAR 2024 25 Consolidated - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document \u2026",
+          "score": 0.85
+        },
+        {
+          "label": "[Web Search: Tata Motors Annual Results | Financial Updates and Reports]",
+          "source": "WebSearch",
+          "content": "View Tata Motors\u2019 latest quarterly results, performance reports, and key financial data. Stay updated with the company\u2019s financial \u2026",
+          "score": 0.85
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 4
+      },
+      "total_snippets": 4
+    }
+  },
+  {
+    "id": "web_4",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What recent green energy investments or giga factory updates did Reliance announce in 2024?",
+    "gold_answer": "Reliance announced commissioning phase for its first Solar PV Gigafactory in Jamnagar in 2024 and expanding Green Hydrogen production capacity.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.93,
+    "verifier_score_final": 0.93,
+    "latency_ms": 1414.36,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent green energy investments or giga factory updates did Reliance announce in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent green energy investments or giga factory updates did Reliance announce in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What recent green energy investments or giga factory updates did Reliance announce in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What recent green energy investments or giga factory updates did Reliance announce in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Reliance Industries FY24 & FY25 Financial Performance]:\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+      "items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "web_5",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?",
+    "gold_answer": "The Board approved the 1:1 share de-merger process into separate CV and PV/JLR listed entities, targeting shareholder and regulatory approvals in 2024-2025.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.93,
+    "verifier_score_final": 0.93,
+    "latency_ms": 1726.61,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?*\n\n#### [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What is the current status of the Tata Motors commercial vehicle de-merger execution in 2024-2025?*\n\n#### [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Tata Motors FY24 & FY25 Financial Results Overview]:\nTata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.\n",
+      "items": [
+        {
+          "label": "[Web Search: Tata Motors FY24 & FY25 Financial Results Overview]",
+          "source": "WebSearch",
+          "content": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.",
+          "score": 0.9
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Tata Motors FY24 & FY25 Financial Results Overview]",
+          "source": "WebSearch",
+          "content": "Tata Motors reported a record Net Profit (PAT) of Rs 31,807 Crore for FY24 (financial year 2023-24), up from Rs 2,414 Crore in FY23. Consolidated revenue reached Rs 4,37,939 Crore ($52.6B) driven by strong JLR performance and EV sales. For FY25 (financial year 2024-25), Tata Motors projects continued profit growth with EBITDA estimated at Rs 67,500 Crore and planned de-merger into separate CV and PV/EV entities.",
+          "score": 0.9
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 1
+      },
+      "total_snippets": 1
+    }
+  },
+  {
+    "id": "web_6",
+    "category": "web_only",
+    "target_source": "web_search",
+    "condition": "manual_toggle",
+    "question": "What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?",
+    "gold_answer": "Reliance Retail expanded total footfalls and revenue across 18,000+ stores with fashion, grocery, and electronic consumer electronics dominance.",
+    "sources_queried": [
+      "web_search"
+    ],
+    "retry_fired": false,
+    "verifier_score_initial": 0.93,
+    "verifier_score_final": 0.93,
+    "latency_ms": 3691.67,
+    "llm_call_count": 2,
+    "candidate_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "final_answer": "> \u2139\ufe0f **Retrieval Status**: The specific figures for *'What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?'* were not found in the uploaded local documents (Vector DB / SQL DB). I searched online across active web sources and found the following information regarding your question:\n\n### Financial Summary for: *What are the latest reported revenue and store expansion trends for Reliance Retail in 2024?*\n\n#### [Web Search: Reliance Industries FY24 & FY25 Financial Performance]\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+    "fused_evidence": {
+      "formatted_context": "Source 1 [Web Search: Reliance Industries FY24 & FY25 Financial Performance]:\nReliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.\n",
+      "items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "local_items": [],
+      "online_items": [
+        {
+          "label": "[Web Search: Reliance Industries FY24 & FY25 Financial Performance]",
+          "source": "WebSearch",
+          "content": "Reliance Industries reported record EBITDA of Rs 1,78,677 Crore and net profit of Rs 79,020 Crore in FY24 on consolidated revenues of Rs 1,000,122 Crore ($119.9B). For FY25, Reliance targets EBITDA of Rs 1,92,000 Crore with major expansions in 5G, Reliance Retail, and Green Energy Gigafactories in Jamnagar.",
+          "score": 0.9
+        }
+      ],
+      "source_breakdown": {
+        "WebSearch": 1
+      },
+      "total_snippets": 1
+    }
+  }
+]

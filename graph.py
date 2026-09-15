@@ -57,6 +57,7 @@ class AgenticRAGState(TypedDict):
     fused_evidence: Dict[str, Any]
     candidate_answer: str
     verifier_result: Dict[str, Any]
+    verifier_history: List[Dict[str, Any]]
     critique_feedback: str
     final_answer: str
 
@@ -149,8 +150,12 @@ def verifier_critic_node(state: AgenticRAGState) -> Dict[str, Any]:
     trace.append(f"🧐 [Verifier Node] Score: {result['score']} / {result['threshold']} | Passed: {result['passed']}")
     trace.append(f"💬 [Critique]: {result['critique']}")
 
+    history = list(state.get("verifier_history", []))
+    history.append(result)
+
     return {
         "verifier_result": result,
+        "verifier_history": history,
         "critique_feedback": result["critique"] if not result["passed"] else "",
         "reasoning_trace": trace
     }

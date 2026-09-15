@@ -97,15 +97,19 @@ class EvidenceFusionPipeline:
                 try:
                     from langchain_google_genai import ChatGoogleGenerativeAI
                     llm = ChatGoogleGenerativeAI(
-                        model="gemini-2.5-flash",
+                        model=config.DEFAULT_MODEL_NAME,
                         google_api_key=effective_gemini_key,
                         temperature=0.7
                     )
                     prompt = f"You are an intelligent, friendly AI Assistant in Conversational Chat Mode. Respond naturally and helpfully to the user's message: '{query}'. Mention briefly that external RAG retrieval sources are currently turned off."
                     response = llm.invoke(prompt)
-                    return response.content
+                    content_text = response.content
+                    if isinstance(content_text, list):
+                        return "".join([p.get("text", str(p)) if isinstance(p, dict) else str(p) for p in content_text])
+                    return str(content_text)
                 except Exception as e:
-                    print(f"[Gemini Conversational Error] {e}", flush=True)
+                    import traceback
+                    print(f"[Gemini Conversational Error] Full Traceback:\n{traceback.format_exc()}", flush=True)
 
             # Fallback conversational response
             if is_greeting:
@@ -136,19 +140,38 @@ CRITICAL RESPONSE FORMATTING RULES:
 """
 
         effective_gemini_key = api_key or config.GEMINI_API_KEY or os.getenv("GEMINI_API_KEY", "")
+        effective_hf_token = api_key or config.HF_TOKEN or os.getenv("HF_TOKEN", "")
 
         if model_provider == "gemini" and effective_gemini_key:
             try:
                 from langchain_google_genai import ChatGoogleGenerativeAI
                 llm = ChatGoogleGenerativeAI(
-                    model="gemini-2.5-flash",
+                    model=config.DEFAULT_MODEL_NAME,
                     google_api_key=effective_gemini_key,
                     temperature=0.2
                 )
                 response = llm.invoke(system_prompt)
-                return response.content
+                content_text = response.content
+                if isinstance(content_text, list):
+                    return "".join([p.get("text", str(p)) if isinstance(p, dict) else str(p) for p in content_text])
+                return str(content_text)
             except Exception as e:
-                print(f"[Gemini Synthesis Error] {e}. Using intelligent synthesis fallback.", flush=True)
+                import traceback
+                print(f"[Gemini Synthesis Error] Full Traceback:\n{traceback.format_exc()}", flush=True)
+
+        elif model_provider in ["huggingface", "hf"] and effective_hf_token:
+            try:
+                from huggingface_hub import InferenceClient
+                client = InferenceClient(model=config.DEFAULT_HF_MODEL, token=effective_hf_token)
+                res = client.chat_completion(
+                    messages=[{"role": "user", "content": system_prompt}],
+                    temperature=0.2,
+                    max_tokens=1500
+                )
+                return res.choices[0].message.content
+            except Exception as e:
+                import traceback
+                print(f"[HuggingFace Synthesis Error] Full Traceback:\n{traceback.format_exc()}", flush=True)
 
         # Fallback synthesizer if offline/unauthenticated
         return self._intelligent_fallback_synthesis(query, fused_evidence, critique_feedback)

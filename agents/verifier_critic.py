@@ -27,6 +27,16 @@ class VerifierCriticNode:
         context_str = fused_evidence.get("formatted_context", "")
         active_toggles_count = sum(1 for v in (toggles or {}).values() if v)
 
+        if isinstance(candidate_answer, list):
+            candidate_answer = "".join([p.get("text", str(p)) if isinstance(p, dict) else str(p) for p in candidate_answer])
+        elif not isinstance(candidate_answer, str):
+            candidate_answer = str(candidate_answer or "")
+
+        if isinstance(context_str, list):
+            context_str = "".join([p.get("text", str(p)) if isinstance(p, dict) else str(p) for p in context_str])
+        elif not isinstance(context_str, str):
+            context_str = str(context_str or "")
+
         # Check for conversational chat mode or greetings ("hi", "hello")
         is_greeting = query.strip().lower() in ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "hi there"]
         no_sources = active_toggles_count == 0
@@ -54,18 +64,7 @@ class VerifierCriticNode:
                 "threshold": effective_threshold
             }
 
-        effective_gemini_key = api_key or config.GEMINI_API_KEY or os.getenv("GEMINI_API_KEY", "")
-
-        if model_provider == "gemini" and effective_gemini_key:
-            try:
-                from langchain_google_genai import ChatGoogleGenerativeAI
-                llm = ChatGoogleGenerativeAI(
-                    model="gemini-2.5-flash",
-                    google_api_key=effective_gemini_key,
-                    temperature=0.0
-                )
-
-                eval_prompt = f"""You are a strict Verifier and Critic AI evaluating an Agentic RAG system response.
+        eval_prompt = f"""You are a strict Verifier and Critic AI evaluating an Agentic RAG system response.
 
 USER QUERY:
 {query}
@@ -92,8 +91,47 @@ Respond ONLY in valid JSON format with this structure:
     "critique_feedback": "Detailed feedback explanation here."
 }}
 """
+
+        effective_gemini_key = api_key or config.GEMINI_API_KEY or os.getenv("GEMINI_API_KEY", "")
+        effective_hf_token = api_key or config.HF_TOKEN or os.getenv("HF_TOKEN", "")
+
+        content_text = None
+
+        if model_provider == "gemini" and effective_gemini_key:
+            try:
+                from langchain_google_genai import ChatGoogleGenerativeAI
+                llm = ChatGoogleGenerativeAI(
+                    model=config.DEFAULT_MODEL_NAME,
+                    google_api_key=effective_gemini_key,
+                    temperature=0.0
+                )
                 res = llm.invoke(eval_prompt)
-                match = re.search(r"\{.*\}", res.content, re.DOTALL)
+                content_text = res.content
+                if isinstance(content_text, list):
+                    content_text = "".join([p.get("text", str(p)) if isinstance(p, dict) else str(p) for p in content_text])
+                elif not isinstance(content_text, str):
+                    content_text = str(content_text)
+            except Exception as e:
+                import traceback
+                print(f"[Verifier Gemini Error] Full Exception Traceback:\n{traceback.format_exc()}", flush=True)
+
+        elif model_provider in ["huggingface", "hf"] and effective_hf_token:
+            try:
+                from huggingface_hub import InferenceClient
+                client = InferenceClient(model=config.DEFAULT_HF_MODEL, token=effective_hf_token)
+                res = client.chat_completion(
+                    messages=[{"role": "user", "content": eval_prompt}],
+                    temperature=0.0,
+                    max_tokens=1000
+                )
+                content_text = res.choices[0].message.content
+            except Exception as e:
+                import traceback
+                print(f"[Verifier HuggingFace Error] Full Exception Traceback:\n{traceback.format_exc()}", flush=True)
+
+        if content_text:
+            try:
+                match = re.search(r"\{.*\}", content_text, re.DOTALL)
                 if match:
                     eval_data = json.loads(match.group(0))
                     score = float(eval_data.get("overall_score", 0.85))
@@ -105,13 +143,17 @@ Respond ONLY in valid JSON format with this structure:
                         "relevance_score": float(eval_data.get("relevance_score", 8.5)),
                         "has_hallucination": bool(eval_data.get("has_hallucination", False)),
                         "critique": eval_data.get("critique_feedback", "Verified successfully."),
-                        "threshold": effective_threshold
+                        "threshold": effective_threshold,
+                        "used_fallback": False
                     }
             except Exception as e:
-                print(f"[Verifier Error] {e}. Using deterministic verifier fallback.", flush=True)
+                import traceback
+                print(f"[Verifier Parsing Error] Full Exception Traceback:\n{traceback.format_exc()}", flush=True)
 
         # Fallback deterministic verifier algorithm
-        return self._deterministic_verifier_fallback(query, candidate_answer, fused_evidence, effective_threshold)
+        res = self._deterministic_verifier_fallback(query, candidate_answer, fused_evidence, effective_threshold)
+        res["used_fallback"] = True
+        return res
 
     def _deterministic_verifier_fallback(
         self,
