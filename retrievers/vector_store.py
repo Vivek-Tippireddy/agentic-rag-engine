@@ -9,9 +9,8 @@ from pypdf import PdfReader
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from langchain_core.documents import Document
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters.character import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
 
 import config
 
@@ -21,7 +20,13 @@ class VectorDBRetriever:
     def __init__(self, data_dir: str = None, persist_dir: str = None):
         self.data_dir = data_dir or config.DEFAULT_DATA_DIR
         self.persist_dir = persist_dir or config.CHROMA_PERSIST_DIR
-        self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        try:
+            from langchain_huggingface import HuggingFaceEmbeddings
+            self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        except Exception as e:
+            print(f"[VectorDB] HuggingFaceEmbeddings unavailable ({e}), using GoogleGenerativeAIEmbeddings fallback.", flush=True)
+            from langchain_google_genai import GoogleGenerativeAIEmbeddings
+            self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=config.GEMINI_API_KEY)
         self.vector_store = None
         self._initialize_vector_store()
 

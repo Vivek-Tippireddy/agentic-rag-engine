@@ -28,16 +28,34 @@ st.markdown("""
         margin-bottom: 1.5rem;
     }
     .verifier-pass {
-        background-color: #e8f5e9;
-        border-left: 5px solid #2e7d32;
-        padding: 14px;
-        border-radius: 6px;
+        background-color: #132a13;
+        color: #ecfdf5;
+        border: 1px solid #2d6a4f;
+        border-left: 6px solid #10b981;
+        padding: 16px;
+        border-radius: 8px;
+        margin-top: 10px;
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+    .verifier-pass strong {
+        color: #34d399;
+        font-weight: 700;
     }
     .verifier-fail {
-        background-color: #ffebee;
-        border-left: 5px solid #c62828;
-        padding: 14px;
-        border-radius: 6px;
+        background-color: #3b1219;
+        color: #fff1f2;
+        border: 1px solid #9f1239;
+        border-left: 6px solid #f43f5e;
+        padding: 16px;
+        border-radius: 8px;
+        margin-top: 10px;
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+    .verifier-fail strong {
+        color: #fb7185;
+        font-weight: 700;
     }
 </style>
 """, unsafe_allow_html=True)
